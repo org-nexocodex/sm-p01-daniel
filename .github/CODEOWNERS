@@ -1,7 +1,7 @@
-*       @org-nexocodex/sm-p01-daniel @org-nexocodex/codeowners(cw)
-/src/   @org-nexocodex/sm-p01-daniel @org-nexocodex/codeowners(cw)
-/docs/  @org-nexocodex/sm-p01-daniel @org-nexocodex/codeowners(cw)
+*       @org-nexocodex/sm-p01-daniel @org-nexocodex/sm-p01-daniel
+/src/   @org-nexocodex/sm-p01-daniel @org-nexocodex/sm-p01-daniel
+/docs/  @org-nexocodex/sm-p01-daniel @org-nexocodex/sm-p01-daniel
 
-/.github/    @org-nexocodex/codeowners(cw)
+/.github/    @org-nexocodex/sm-p01-daniel
 
-/docs/rubrica-evaluacion.md  @org-nexocodex/codeowners(cw)
+/docs/rubrica-evaluacion.md  @org-nexocodex/sm-p01-daniel
